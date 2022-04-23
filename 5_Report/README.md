@@ -120,6 +120,4 @@ This project, we have used the HC-SR04 Ultrasonic Sensor with ATMEGA328 to deter
 ![WhatsApp Image 2021-12-02 at 12 01 45 AM](https://user-images.githubusercontent.com/94224310/144295585-c6a438da-50b2-411a-9bb3-15a04055a2ed.jpeg)
 
 
-# Simulations:
 
-<img width="802" alt="distance_measure" src="https://user-images.githubusercontent.com/94224310/144293152-dd2dff0d-e768-4159-92fc-68e9a67c5e96.png">
