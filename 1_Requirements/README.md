@@ -32,33 +32,33 @@ The display in use is LCD which has an integrated chip that converts serial data
 
 ###  Strength:
 
-#### 1. Measure the distance which wil be easy to conﬁgure and handle.
+1. Measure the distance which wil be easy to conﬁgure and handle.
 
-#### 2. Easy to use and reliable
+2. Easy to use and reliable
 
-#### 3. cost
+3. cost
 
-#### 4. Technology advantages
+4. Technology advantages
 
 ###  Weaknesses:
 
-#### 1. They cannot tell you the exact distance or location of the obstacle.
+1. They cannot tell you the exact distance or location of the obstacle.
 
-#### 2. Marketing deficiencies
+2. Marketing deficiencies
 
 ### Opportunities:
 
-#### 1. New technology
+ 1. New technology
 
-#### 3. New markets or services
+ 2. New markets or services
 
 ### Threats:
 
-####  1. New or increased competition
+ 1. New or increased competition
 
-#### 2. Adverse demograghic changes
+ 2. Adverse demograghic changes
 
-#### 3. Economic slowdowns
+ 3. Economic slowdowns
 
 ## 4W's and 1'H
 
