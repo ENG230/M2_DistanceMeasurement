@@ -81,6 +81,22 @@ The ultrasonic sensor emits a high-frequency sound pulse and calculates the dist
 
 This project, we have used the HC-SR04 Ultrasonic Sensor with ATMEGA328 to determine the distance of an obstacle from the sensor. The basic principle of ultrasonic distance measurement is based on ECHO.
 
+## Bill of Materials
+
+
+Circuit: distancemeasure.simu
+
+Bill of Materials:
+
+BJT-79 : BJT   
+Hd44780-6 : Hd44780   
+I2CToParallel-3 : I2CToParallel   
+Led-86 : Led   
+Resistor-49 : Resistor 2.2 kΩ
+Resistor-5 : Resistor 2.2 kΩ
+SR04-2 : SR04   
+atmega328-1 : atmega328
+
 
 
 ## Detail requirements
