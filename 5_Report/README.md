@@ -30,13 +30,13 @@ The display in use is LCD which has an integrated chip that converts serial data
 
 ###  Strength:
 
-#### 1. Measure the distance which wil be easy to conﬁgure and handle.
+1. Measure the distance which wil be easy to conﬁgure and handle.
 
-#### 2. Easy to use and reliable
+ 2. Easy to use and reliable
 
-#### 3. cost
+ 3. cost
 
-#### 4. Technology advantages
+ 4. Technology advantages
 
 ###  Weaknesses:
 
