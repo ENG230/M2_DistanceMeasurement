@@ -1,6 +1,4 @@
 # M2_Distancemeasurement
-cpp check  |  Codacy Badge | Codiga Score  | Codiga Grade  |
----------  | -------         |  -----         | ------        |  -----         |
 [![cppcheck-action](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml)
 github inspector  |
 [![.github/workflows/git_inspector.yml](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml)
