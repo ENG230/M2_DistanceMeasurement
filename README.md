@@ -1,9 +1,7 @@
 # M2_Distancemeasurement
 cpp check  | github inspector  | Codacy Badge | Codiga Score  | Codiga Grade  |
 ---------  | -------         |  -----         | ------        |  -----         |
-[![cppcheck-action](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml)
-
-[![.github/workflows/git_inspector.yml](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml)
+[![cppcheck-action](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml)[![.github/workflows/git_inspector.yml](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b569df1dd71149c78c558bd5e0344e1c)](https://www.codacy.com/gh/ENG230/M2_Distancemeasurement/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ENG230/M2_Distancemeasurement&amp;utm_campaign=Badge_Grade)
 
