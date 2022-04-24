@@ -1,4 +1,5 @@
 # M2_Distancemeasurement
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4ac4929e863946beb09dc97d907a05c7)](https://app.codacy.com/gh/ENG230/M2_Distancemeasurement?utm_source=github.com&utm_medium=referral&utm_content=ENG230/M2_Distancemeasurement&utm_campaign=Badge_Grade_Settings)
 [![cppcheck-action](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/cppcheck.yml)
 [![.github/workflows/git_inspector.yml](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/ENG230/M2_Distancemeasurement/actions/workflows/git_inspector.yml)
 ## Objective
