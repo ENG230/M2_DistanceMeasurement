@@ -1,3 +1,4 @@
+[Distancemeasurement.simu.txt](https://github.com/ENG230/M2_Distancemeasurement/files/8550631/Distancemeasurement.simu.txt)
 
                         Timing diagram of Ultrasonic sensor
 
