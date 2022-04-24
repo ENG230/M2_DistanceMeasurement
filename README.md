@@ -20,3 +20,9 @@ Ultrasonic sensors are great tools to measure distance and detect objects withou
 ## Block Diagram:
 
 ![WhatsApp Image 2021-12-02 at 12 01 45 AM](https://user-images.githubusercontent.com/94224310/144295585-c6a438da-50b2-411a-9bb3-15a04055a2ed.jpeg)
+
+Simulation Diagram
+![Distancemeasurement](https://user-images.githubusercontent.com/83355817/164995073-295f0daa-dfe5-4ccc-821d-55ec688b4c62.png)
+ 
+             Output Diagram
+ ![WhatsApp Image 2022-04-25 at 2 15 01 AM](https://user-images.githubusercontent.com/83355817/164995888-023c395a-2433-4de3-a38d-527ba9399d44.jpeg) 
